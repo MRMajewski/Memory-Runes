@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/scenes/memory.unity
+- path: "E:/IT/Unity/Projekty/StrefaKursow/materialy_do_kursu 2d/Materia\u0142y/Projekty
+    gier/Memo game/Memo game/Assets/scenes/game.unity"
   isLoaded: 1
   isActive: 1

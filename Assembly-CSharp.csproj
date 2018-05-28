@@ -53,6 +53,7 @@
   <ItemGroup>
      <Compile Include="Assets\scripts\Board.cs" />
      <Compile Include="Assets\scripts\Tile.cs" />
+     <None Include="Assets\fonts\freefont_EULA_v1-00.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/IT/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
